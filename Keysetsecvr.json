@@ -1,9 +1,16 @@
 {
-	"keys":[ {
-		
-		"_comment":"0001",
-		"keyval":"keyval",
-
-	}]
-
+  "keys":[ {
+    
+    "_comment":  "oculus rift 2045 safety training PClucass",
+   "f1273abd529ff4428afecd5344342b27" : "f1273abd529ff4428afecd5344342b27",
+    
+    "_comment":  "oculus quest 2045 safety training 1",
+    "1a72a82fb1a41da1":"1a72a82fb1a41da1",
+        
+     "_comment":  "oculus quest 2045 safety training 2",
+    "e879463d189de9ba":"e879463d189de9ba",
+    
+ "_comment":  "codicee 3142",
+    "3a3b3c3d":"3a3b3c3d",
+     }]
 }
